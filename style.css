@@ -1,0 +1,30 @@
+.banner {
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.banner button {
+  padding: 20px 20px;
+}
+
+.btn {
+  border: none;
+  height: 100px;
+  width: 500px;
+  font-size: 32px;
+  border-radius: 1000px;
+  cursor: pointer;
+  background-color: cornflowerblue;
+  color: aliceblue;
+}
+
+.btn:hover {
+  background-color: blue;
+}
+
+.banner-resposta {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
